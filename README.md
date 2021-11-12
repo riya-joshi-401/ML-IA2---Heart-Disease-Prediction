@@ -5,6 +5,10 @@
 - 1814029 , Darshan Kalwani
 - 1814030 , Sagar Kamat
 
+<br>
+
+Screencast videos : https://drive.google.com/drive/folders/108MGBmjbPAsMDh6tvmxqwZKMoigoqkIq
+
 <hr>
 
 <li>We have first performed EDA on our dataset and drew various insights from it</li>
