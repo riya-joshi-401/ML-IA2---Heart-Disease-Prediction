@@ -1,12 +1,12 @@
 # ML-IA2---Heart-Disease-Prediction
 
 <li>We have first performed EDA on our dataset and drew various insights from it</li>
-T<li>hen we did some pre-processing our dataset</li>
+<li>hen we did some pre-processing our dataset</li>
 <li>After that we implemented 7 supervised machine learning algorithms</li>
 <li>We also did hyper-parameter tuning to further increase the accuracy</li>
 <li>We evaluated their performance on the basis of various metrics and compared the overall performance of the algorithms</li>
 
-
+<br>
 ![image](https://user-images.githubusercontent.com/53979947/141507796-a6b117ce-679a-41f5-b1cd-b2e84645b982.png)
 
 <br>
