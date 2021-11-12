@@ -1,5 +1,12 @@
 # ML-IA2---Heart-Disease-Prediction
 
+<b> Group Members </b>
+- 1814028 , Riya Joshi
+- 1814029 , Darshan Kalwani
+- 1814030 , Sagar Kamat
+
+<br>
+
 <li>We have first performed EDA on our dataset and drew various insights from it</li>
 <li>hen we did some pre-processing our dataset</li>
 <li>After that we implemented 7 supervised machine learning algorithms</li>
