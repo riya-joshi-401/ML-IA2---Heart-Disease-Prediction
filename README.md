@@ -12,7 +12,7 @@ Screencast videos : https://drive.google.com/drive/folders/108MGBmjbPAsMDh6tvmxq
 <hr>
 
 <li>We have first performed EDA on our dataset and drew various insights from it</li>
-<li>hen we did some pre-processing our dataset</li>
+<li>Then we did some pre-processing our dataset</li>
 <li>After that we implemented 7 supervised machine learning algorithms</li>
 <li>We also did hyper-parameter tuning to further increase the accuracy</li>
 <li>We evaluated their performance on the basis of various metrics and compared the overall performance of the algorithms</li>
