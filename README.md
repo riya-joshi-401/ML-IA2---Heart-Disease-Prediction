@@ -6,7 +6,6 @@
 - 1814030 , Sagar Kamat
 
 <hr>
-<br>
 
 <li>We have first performed EDA on our dataset and drew various insights from it</li>
 <li>hen we did some pre-processing our dataset</li>
